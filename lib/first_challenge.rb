@@ -15,7 +15,6 @@ def first_challenge
   }
 
   contacts.each do |attribute, value|
-    pry
     if attribute == :favorite_icecream_flavors
       value.each do |flavor|
         if flavor == "strawberry"
