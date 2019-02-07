@@ -19,6 +19,7 @@ def first_challenge
       value.delete("strawberry")
     end
   end
-    contacts
+  
+  contacts
 end
 
